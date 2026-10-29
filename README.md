@@ -1,32 +1,25 @@
-<div align="center">                                                                                                                              
-                                                                                                                                                      
-    # Hi there, I'm Rahul Nai 👋                                                                                                                      
-    ### Full-Stack Developer | Junior DevOps & Systems Enthusiast                                                                                     
-                                                                                                                                                      
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+                                                                                   
-  Code&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;System+Administrator+at+AddWeb+   
-  Solution;Docker+%7C+Linux+%7C+MERN+%7C+REST+APIs;MCA+Scholar+%40+SAL+Institute+(GTU))](https://git.io/typing-svg)                                   
-                                                                                                                                                      
-    ---                                                                                                                                               
+<h1 align="center">Hi there, I'm Rahul Nai 👋</h1>                                                                                                
+    <h3 align="center">Full-Stack Developer | Junior DevOps & Systems Enthusiast</h3>                                                                 
                                                                                                                                                       
     <p align="center">                                                                                                                                
-      <a href="mailto:rahul.nai0103@gmail.com">                                                                                                       
-        <img src="https://img.shields.io/badge/Email-rahul.nai0103@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />    
-      </a>                                                                                                                                            
-      <a href="https://linkedin.com/in/rahul-nai" target="_blank">                                                                                    
-        <img src="https://img.shields.io/badge/LinkedIn-Rahul_Nai-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />         
-      </a>                                                                                                                                            
-      <a href="https://github.com/RAHULNA172">                                                                                                        
-        <img src="https://img.shields.io/badge/GitHub-RAHULNA172-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />              
-      </a>                                                                                                                                            
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+                                                                                      
+  Code&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;System+Administrator+at+AddWeb+   
+  Solution;Docker+%7C+Linux+%7C+MERN+%7C+REST+APIs;MCA+Scholar+%40+SAL+Institute+(GTU)" alt="Typing SVG" />                                           
+    </p>                                                                                                                                              
+                                                                                                                                                      
+    <p align="center">                                                                                                                                
+      <a href="mailto:rahul.nai0103@gmail.com"><img src="https://img.shields.io/badge/Email-rahul.nai0103@gmail.com-D14836?style=for-the-             
+  badge&logo=gmail&logoColor=white" alt="Email" /></a>                                                                                                
+      <a href="https://linkedin.com/in/rahul-nai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Rahul_Nai-0077B5?style=for-the-     
+  badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>                                                                                          
+      <a href="https://github.com/RAHULNA172"><img src="https://img.shields.io/badge/GitHub-RAHULNA172-181717?style=for-the-                          
+  badge&logo=github&logoColor=white" alt="GitHub" /></a>                                                                                              
       <img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20India-555?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
     </p>                                                                                                                                              
                                                                                                                                                       
-    </div>                                                                                                                                            
-                                                                                                                                                      
     ---                                                                                                                                               
                                                                                                                                                       
-    ### 👨‍💻 About Me                                                                                                                                   
+    ## 👨‍💻 About Me                                                                                                                                    
                                                                                                                                                       
     - 💼 **Current Role:** **System Administrator** at **AddWeb Solution Pvt. Ltd.** (Oct 2025 – Present) — managing Linux/Windows endpoints, network 
   infrastructure (TCP/IP, DHCP, DNS, VPN), and practicing Docker containerization & web server deployments.                                           
@@ -39,9 +32,9 @@
                                                                                                                                                       
     ---                                                                                                                                               
                                                                                                                                                       
-    ### 🛠️ Technical Skills                                                                                                                           
+    ## 🛠️ Technical Skills                                                                                                                            
                                                                                                                                                       
-    #### 🌐 Web & Frontend                                                                                                                            
+    ### 🌐 Web & Frontend                                                                                                                             
     <p align="left">                                                                                                                                  
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />                             
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />               
@@ -49,7 +42,7 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />                                 
     </p>                                                                                                                                              
                                                                                                                                                       
-    #### ⚙️ Backend & Programming Languages                                                                                                           
+    ### ⚙️ Backend & Programming Languages                                                                                                            
     <p align="left">                                                                                                                                  
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />                      
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />                  
@@ -60,7 +53,7 @@
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />                                          
     </p>                                                                                                                                              
                                                                                                                                                       
-    #### 🐳 DevOps, Cloud & Web Servers                                                                                                               
+    ### 🐳 DevOps, Cloud & Web Servers                                                                                                                
     <p align="left">                                                                                                                                  
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />                           
       <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />                     
@@ -69,7 +62,7 @@
       <img src="https://img.shields.io/badge/AWS_Basics-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />               
     </p>                                                                                                                                              
                                                                                                                                                       
-    #### 🗄️ Databases, Networking & Tools                                                                                                             
+    ### 🗄️ Databases, Networking & Tools                                                                                                              
     <p align="left">                                                                                                                                  
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />                              
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />                                    
@@ -80,22 +73,22 @@
                                                                                                                                                       
     ---                                                                                                                                               
                                                                                                                                                       
-    ### 📊 GitHub Activity & Real-Time Stats                                                                                                          
+    ## 📊 GitHub Activity & Real-Time Stats                                                                                                           
                                                                                                                                                       
-    <div align="center">                                                                                                                              
+    <p align="center">                                                                                                                                
       <img src="https://github-readme-stats.vercel.app/api?username=RAHULNA172&show_icons=true&theme=radical&hide_border=true&count_private=true"     
   alt="Rahul's GitHub Stats" />                                                                                                                       
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAHULNA172&theme=radical&hide_border=true" alt="Rahul's Streak" />             
-    </div>                                                                                                                                            
+    </p>                                                                                                                                              
                                                                                                                                                       
-    <div align="center">                                                                                                                              
+    <p align="center">                                                                                                                                
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULNA172&layout=compact&theme=radical&hide_border=true" alt="Top     
   Languages" />                                                                                                                                       
-    </div>
+    </p>
   
     ---
   
-    ### 💡 Featured Projects
+    ## 💡 Featured Projects
   
     | Project | Highlights | Tech Stack | Repository |
     | :--- | :--- | :--- | :--- |
@@ -112,6 +105,6 @@
   
     ---
   
-    <div align="center">
+    <p align="center">
       <sub>Designed with ❤️ for <b>Rahul Nai</b> • Updated continuously</sub>
-    </div>
+    </p>
