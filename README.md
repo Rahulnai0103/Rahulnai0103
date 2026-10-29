@@ -69,12 +69,12 @@
 ## 📊 GitHub Activity & Real-Time Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAHULNA172&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rahul's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAHULNA172&theme=radical&hide_border=true" alt="Rahul's Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=RAHULNA172&show_icons=true&theme=radical&hide_border=true" alt="Rahul's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=RAHULNA172&theme=radical&hide_border=true" alt="Rahul's Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULNA172&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RAHULNA172&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
